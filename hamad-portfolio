@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>حمد السيد حمد - Portfolio</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>حمد السيد حمد</h1>
+        <nav>
+            <a href="index.html">الرئيسية</a>
+            <a href="portfolio.html">أعمالي</a>
+            <a href="about.html">عن حمد</a>
+            <a href="contact.html">تواصل</a>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h2>Portfolio فخم لأعمالي الإبداعية</h2>
+        <p>شاهد أبرز المشاريع والإعلانات التي قمت بإخراجها.</p>
+    </section>
+
+    <section class="featured-projects">
+        <h3>أحدث الأعمال</h3>
+        <div class="projects-grid">
+            <div class="project-card">
+                <img src="images/project1.jpg" alt="مشروع 1">
+                <h4>إعلان عصائر</h4>
+            </div>
+            <div class="project-card">
+                <img src="images/project2.jpg" alt="مشروع 2">
+                <h4>عرض عسكري</h4>
+            </div>
+            <div class="project-card">
+                <img src="images/project3.jpg" alt="مشروع 3">
+                <h4>إعلان سامسونج</h4>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2026 حمد السيد حمد | جميع الحقوق محفوظة</p>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>أعمال حمد السيد حمد</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>حمد السيد حمد</h1>
+        <nav>
+            <a href="index.html">الرئيسية</a>
+            <a href="portfolio.html">أعمالي</a>
+            <a href="about.html">عن حمد</a>
+            <a href="contact.html">تواصل</a>
+        </nav>
+    </header>
+
+    <section class="portfolio">
+        <h2>Portfolio</h2>
+        <div class="projects-grid">
+            <div class="project-card">
+                <img src="images/project1.jpg" alt="مشروع 1">
+                <h4>إعلان عصائر</h4>
+            </div>
+            <div class="project-card">
+                <img src="images/project2.jpg" alt="مشروع 2">
+                <h4>عرض عسكري</h4>
+            </div>
+            <div class="project-card">
+                <img src="images/project3.jpg" alt="مشروع 3">
+                <h4>إعلان سامسونج</h4>
+            </div>
+            <div class="project-card">
+                <img src="images/project4.jpg" alt="مشروع 4">
+                <h4>مطعم ميدان الشام</h4>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2026 حمد السيد حمد | جميع الحقوق محفوظة</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>عن حمد السيد حمد</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>حمد السيد حمد</h1>
+        <nav>
+            <a href="index.html">الرئيسية</a>
+            <a href="portfolio.html">أعمالي</a>
+            <a href="about.html">عن حمد</a>
+            <a href="contact.html">تواصل</a>
+        </nav>
+    </header>
+
+    <section class="about">
+        <h2>نبذة عني</h2>
+        <p>مخرج تلفزيوني بخبرة أكثر من 5 سنوات، متخصص في الإعلانات والبرامج التلفزيونية، تعاونت مع كبار العلامات التجارية في مصر. أحب الإبداع والتميز في كل مشروع أقدمه.</p>
+    </section>
+
+    <footer>
+        <p>© 2026 حمد السيد حمد | جميع الحقوق محفوظة</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>تواصل مع حمد السيد حمد</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>حمد السيد حمد</h1>
+        <nav>
+            <a href="index.html">الرئيسية</a>
+            <a href="portfolio.html">أعمالي</a>
+            <a href="about.html">عن حمد</a>
+            <a href="contact.html">تواصل</a>
+        </nav>
+    </header>
+
+    <section class="contact">
+        <h2>تواصل معي</h2>
+        <form action="#" method="post">
+            <input type="text" name="name" placeholder="اسمك" required>
+            <input type="email" name="email" placeholder="البريد الإلكتروني" required>
+            <textarea name="message" placeholder="رسالتك" required></textarea>
+            <button type="submit">إرسال</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>© 2026 حمد السيد حمد | جميع الحقوق محفوظة</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>تواصل مع حمد السيد حمد</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>حمد السيد حمد</h1>
+        <nav>
+            <a href="index.html">الرئيسية</a>
+            <a href="portfolio.html">أعمالي</a>
+            <a href="about.html">عن حمد</a>
+            <a href="contact.html">تواصل</a>
+        </nav>
+    </header>
+
+    <section class="contact">
+        <h2>تواصل معي</h2>
+        <form action="#" method="post">
+            <input type="text" name="name" placeholder="اسمك" required>
+            <input type="email" name="email" placeholder="البريد الإلكتروني" required>
+            <textarea name="message" placeholder="رسالتك" required></textarea>
+            <button type="submit">إرسال</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>© 2026 حمد السيد حمد | جميع الحقوق محفوظة</p>
+    </footer>
+</body>
+</html>
